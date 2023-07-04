@@ -1,0 +1,15 @@
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\practiceExercise\CcsaModel\CcsaModel\bin\Debug\net6.0\CcsaModel.exe
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\practiceExercise\CcsaModel\CcsaModel\bin\Debug\net6.0\CcsaModel.deps.json
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\practiceExercise\CcsaModel\CcsaModel\bin\Debug\net6.0\CcsaModel.runtimeconfig.json
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\practiceExercise\CcsaModel\CcsaModel\bin\Debug\net6.0\CcsaModel.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\practiceExercise\CcsaModel\CcsaModel\bin\Debug\net6.0\CcsaModel.pdb
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\practiceExercise\CcsaModel\CcsaModel\obj\Debug\net6.0\CcsaModel.csproj.AssemblyReference.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\practiceExercise\CcsaModel\CcsaModel\obj\Debug\net6.0\CcsaModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\practiceExercise\CcsaModel\CcsaModel\obj\Debug\net6.0\CcsaModel.AssemblyInfoInputs.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\practiceExercise\CcsaModel\CcsaModel\obj\Debug\net6.0\CcsaModel.AssemblyInfo.cs
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\practiceExercise\CcsaModel\CcsaModel\obj\Debug\net6.0\CcsaModel.csproj.CoreCompileInputs.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\practiceExercise\CcsaModel\CcsaModel\obj\Debug\net6.0\CcsaModel.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\practiceExercise\CcsaModel\CcsaModel\obj\Debug\net6.0\refint\CcsaModel.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\practiceExercise\CcsaModel\CcsaModel\obj\Debug\net6.0\CcsaModel.pdb
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\practiceExercise\CcsaModel\CcsaModel\obj\Debug\net6.0\CcsaModel.genruntimeconfig.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\practiceExercise\CcsaModel\CcsaModel\obj\Debug\net6.0\ref\CcsaModel.dll
